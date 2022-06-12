@@ -1,0 +1,4 @@
+ixmp==3.5.0
+matplotlib==3.5.2
+message-ix==3.5.0
+pandas==1.4.2
